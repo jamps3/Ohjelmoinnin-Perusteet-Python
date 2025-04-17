@@ -1,0 +1,1 @@
+print('print("Moi kaikki!")')
