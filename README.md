@@ -321,3 +321,23 @@ Seitsemännessä osassa perehdytään satunnaislukujen luomiseen ja niiden käsi
 - Virheiden tarkistaminen ja tietojen validointi
 - Pelien ja simulaatioiden toteuttaminen satunnaisalgoritmeilla
 
+## Kuinka käyttää tätä projektia
+
+1. **Asenna Python**: Varmista, että sinulla on Python 3.x asennettuna tietokoneellasi. Voit ladata sen [täältä](https://www.python.org/downloads/).
+2. **Lataa tai kloonaa tämä projekti**: Voit ladata projektin ZIP-tiedostona tai kloonata sen GitHubista käyttämällä seuraavaa komentoa:
+    ```bash
+    git clone https://github.com/jamps3/Ohjelmoinnin-Perusteet-Python.git
+    ```
+3. **Aloita harjoitukset**: Siirry kunkin osa-alueen kansioon ja ala ratkaisemaan tehtäviä. Voit suorittaa koodin suoraan Pythonilla ja testata ratkaisusi.
+
+## Lisätiedot ja Resurssit
+- [Pythonin virallinen dokumentaatio](https://docs.python.org/3/)
+- [Ohjelmoinnin perusteet -kurssi @ Riveria](https://tmc.mooc.fi/org/riveria/)
+
+## Yhteydenotto ja Palaute
+Jos sinulla on kysymyksiä, virheitä tai parannusehdotuksia, voit ottaa yhteyttä projektin ylläpitäjään GitHubin kautta.
+- **GitHub-ongelmat (Issues)**: [https://github.com/jamps3/Ohjelmoinnin-Perusteet-Python/issues](https://github.com/jamps3/Ohjelmoinnin-Perusteet-Python/issues)
+
+## Kiitokset
+- Kiitos MOOCille ja Helsingin Yliopistolle materiaaleista!
+- Kiitos, jos käytät tätä projektia osana Python-opintojasi! Toivon, että se on hyödyllistä ja hauskaa.
